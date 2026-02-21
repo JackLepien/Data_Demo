@@ -1,0 +1,4003 @@
+{
+  "Sheet 1": [
+    {
+      "id": "1",
+      "name": "Bulbasaur",
+      "type/0": "Grass",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "2",
+      "name": "Ivysaur",
+      "type/0": "Grass",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "3",
+      "name": "Venusaur",
+      "type/0": "Grass",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "4",
+      "name": "Charmander",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "5",
+      "name": "Charmeleon",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "6",
+      "name": "Charizard",
+      "type/0": "Fire",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "7",
+      "name": "Squirtle",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "8",
+      "name": "Wartortle",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "9",
+      "name": "Blastoise",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "10",
+      "name": "Caterpie",
+      "type/0": "Bug",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "11",
+      "name": "Metapod",
+      "type/0": "Bug",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "12",
+      "name": "Butterfree",
+      "type/0": "Bug",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "13",
+      "name": "Weedle",
+      "type/0": "Bug",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "14",
+      "name": "Kakuna",
+      "type/0": "Bug",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "15",
+      "name": "Beedrill",
+      "type/0": "Bug",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "16",
+      "name": "Pidgey",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "17",
+      "name": "Pidgeotto",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "18",
+      "name": "Pidgeot",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "19",
+      "name": "Rattata",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "20",
+      "name": "Raticate",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "21",
+      "name": "Spearow",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "22",
+      "name": "Fearow",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "23",
+      "name": "Ekans",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "24",
+      "name": "Arbok",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "25",
+      "name": "Pikachu",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "9"
+    },
+    {
+      "id": "26",
+      "name": "Raichu",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "4"
+    },
+    {
+      "id": "27",
+      "name": "Sandshrew",
+      "type/0": "Ground",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "28",
+      "name": "Sandslash",
+      "type/0": "Ground",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "29",
+      "name": "Nidoran♀",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "30",
+      "name": "Nidorina",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "31",
+      "name": "Nidoqueen",
+      "type/0": "Poison",
+      "type/1": "Ground",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "32",
+      "name": "Nidoran♂",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "33",
+      "name": "Nidorino",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "34",
+      "name": "Nidoking",
+      "type/0": "Poison",
+      "type/1": "Ground",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "35",
+      "name": "Clefairy",
+      "type/0": "Fairy",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "36",
+      "name": "Clefable",
+      "type/0": "Fairy",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "37",
+      "name": "Vulpix",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "38",
+      "name": "Ninetales",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "39",
+      "name": "Jigglypuff",
+      "type/0": "Normal",
+      "type/1": "Fairy",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "40",
+      "name": "Wigglytuff",
+      "type/0": "Normal",
+      "type/1": "Fairy",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "41",
+      "name": "Zubat",
+      "type/0": "Poison",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "42",
+      "name": "Golbat",
+      "type/0": "Poison",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "43",
+      "name": "Oddish",
+      "type/0": "Grass",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "44",
+      "name": "Gloom",
+      "type/0": "Grass",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "45",
+      "name": "Vileplume",
+      "type/0": "Grass",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "46",
+      "name": "Paras",
+      "type/0": "Bug",
+      "type/1": "Grass",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "47",
+      "name": "Parasect",
+      "type/0": "Bug",
+      "type/1": "Grass",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "48",
+      "name": "Venonat",
+      "type/0": "Bug",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "49",
+      "name": "Venomoth",
+      "type/0": "Bug",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "50",
+      "name": "Diglett",
+      "type/0": "Ground",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "51",
+      "name": "Dugtrio",
+      "type/0": "Ground",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "52",
+      "name": "Meowth",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "53",
+      "name": "Persian",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "54",
+      "name": "Psyduck",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "55",
+      "name": "Golduck",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "56",
+      "name": "Mankey",
+      "type/0": "Fighting",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "57",
+      "name": "Primeape",
+      "type/0": "Fighting",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "58",
+      "name": "Growlithe",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "59",
+      "name": "Arcanine",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "60",
+      "name": "Poliwag",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "61",
+      "name": "Poliwhirl",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "62",
+      "name": "Poliwrath",
+      "type/0": "Water",
+      "type/1": "Fighting",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "63",
+      "name": "Abra",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "64",
+      "name": "Kadabra",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "65",
+      "name": "Alakazam",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "66",
+      "name": "Machop",
+      "type/0": "Fighting",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "67",
+      "name": "Machoke",
+      "type/0": "Fighting",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "68",
+      "name": "Machamp",
+      "type/0": "Fighting",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "69",
+      "name": "Bellsprout",
+      "type/0": "Grass",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "70",
+      "name": "Weepinbell",
+      "type/0": "Grass",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "71",
+      "name": "Victreebel",
+      "type/0": "Grass",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "72",
+      "name": "Tentacool",
+      "type/0": "Water",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "73",
+      "name": "Tentacruel",
+      "type/0": "Water",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "74",
+      "name": "Geodude",
+      "type/0": "Rock",
+      "type/1": "Ground",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "75",
+      "name": "Graveler",
+      "type/0": "Rock",
+      "type/1": "Ground",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "76",
+      "name": "Golem",
+      "type/0": "Rock",
+      "type/1": "Ground",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "77",
+      "name": "Ponyta",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "78",
+      "name": "Rapidash",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "79",
+      "name": "Slowpoke",
+      "type/0": "Water",
+      "type/1": "Psychic",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "80",
+      "name": "Slowbro",
+      "type/0": "Water",
+      "type/1": "Psychic",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "81",
+      "name": "Magnemite",
+      "type/0": "Electric",
+      "type/1": "Steel",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "82",
+      "name": "Magneton",
+      "type/0": "Electric",
+      "type/1": "Steel",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "83",
+      "name": "Farfetch'd",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "84",
+      "name": "Doduo",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "85",
+      "name": "Dodrio",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "86",
+      "name": "Seel",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "87",
+      "name": "Dewgong",
+      "type/0": "Water",
+      "type/1": "Ice",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "88",
+      "name": "Grimer",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "89",
+      "name": "Muk",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "90",
+      "name": "Shellder",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "91",
+      "name": "Cloyster",
+      "type/0": "Water",
+      "type/1": "Ice",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "92",
+      "name": "Gastly",
+      "type/0": "Ghost",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "93",
+      "name": "Haunter",
+      "type/0": "Ghost",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "94",
+      "name": "Gengar",
+      "type/0": "Ghost",
+      "type/1": "Poison",
+      "gen": "1",
+      "appearances": "3"
+    },
+    {
+      "id": "95",
+      "name": "Onix",
+      "type/0": "Rock",
+      "type/1": "Ground",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "96",
+      "name": "Drowzee",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "97",
+      "name": "Hypno",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "98",
+      "name": "Krabby",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "99",
+      "name": "Kingler",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "100",
+      "name": "Voltorb",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "101",
+      "name": "Electrode",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "102",
+      "name": "Exeggcute",
+      "type/0": "Grass",
+      "type/1": "Psychic",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "103",
+      "name": "Exeggutor",
+      "type/0": "Grass",
+      "type/1": "Psychic",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "104",
+      "name": "Cubone",
+      "type/0": "Ground",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "105",
+      "name": "Marowak",
+      "type/0": "Ground",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "106",
+      "name": "Hitmonlee",
+      "type/0": "Fighting",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "107",
+      "name": "Hitmonchan",
+      "type/0": "Fighting",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "108",
+      "name": "Lickitung",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "109",
+      "name": "Koffing",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "110",
+      "name": "Weezing",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "111",
+      "name": "Rhyhorn",
+      "type/0": "Ground",
+      "type/1": "Rock",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "112",
+      "name": "Rhydon",
+      "type/0": "Ground",
+      "type/1": "Rock",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "113",
+      "name": "Chansey",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "114",
+      "name": "Tangela",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "115",
+      "name": "Kangaskhan",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "116",
+      "name": "Horsea",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "117",
+      "name": "Seadra",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "118",
+      "name": "Goldeen",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "119",
+      "name": "Seaking",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "120",
+      "name": "Staryu",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "121",
+      "name": "Starmie",
+      "type/0": "Water",
+      "type/1": "Psychic",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "122",
+      "name": "Mr. Mime",
+      "type/0": "Psychic",
+      "type/1": "Fairy",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "123",
+      "name": "Scyther",
+      "type/0": "Bug",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "124",
+      "name": "Jynx",
+      "type/0": "Ice",
+      "type/1": "Psychic",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "125",
+      "name": "Electabuzz",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "126",
+      "name": "Magmar",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "127",
+      "name": "Pinsir",
+      "type/0": "Bug",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "128",
+      "name": "Tauros",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "129",
+      "name": "Magikarp",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "130",
+      "name": "Gyarados",
+      "type/0": "Water",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "131",
+      "name": "Lapras",
+      "type/0": "Water",
+      "type/1": "Ice",
+      "gen": "1",
+      "appearances": "3"
+    },
+    {
+      "id": "132",
+      "name": "Ditto",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "133",
+      "name": "Eevee",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "134",
+      "name": "Vaporeon",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "3"
+    },
+    {
+      "id": "135",
+      "name": "Jolteon",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "3"
+    },
+    {
+      "id": "136",
+      "name": "Flareon",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "3"
+    },
+    {
+      "id": "137",
+      "name": "Porygon",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "138",
+      "name": "Omanyte",
+      "type/0": "Rock",
+      "type/1": "Water",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "139",
+      "name": "Omastar",
+      "type/0": "Rock",
+      "type/1": "Water",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "140",
+      "name": "Kabuto",
+      "type/0": "Rock",
+      "type/1": "Water",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "141",
+      "name": "Kabutops",
+      "type/0": "Rock",
+      "type/1": "Water",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "142",
+      "name": "Aerodactyl",
+      "type/0": "Rock",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "143",
+      "name": "Snorlax",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "144",
+      "name": "Articuno",
+      "type/0": "Ice",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "145",
+      "name": "Zapdos",
+      "type/0": "Electric",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "146",
+      "name": "Moltres",
+      "type/0": "Fire",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "147",
+      "name": "Dratini",
+      "type/0": "Dragon",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "148",
+      "name": "Dragonair",
+      "type/0": "Dragon",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "149",
+      "name": "Dragonite",
+      "type/0": "Dragon",
+      "type/1": "Flying",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "150",
+      "name": "Mewtwo",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "2"
+    },
+    {
+      "id": "151",
+      "name": "Mew",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "1",
+      "appearances": "1"
+    },
+    {
+      "id": "152",
+      "name": "Chikorita",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "153",
+      "name": "Bayleef",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "154",
+      "name": "Meganium",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "155",
+      "name": "Cyndaquil",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "156",
+      "name": "Quilava",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "157",
+      "name": "Typhlosion",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "158",
+      "name": "Totodile",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "159",
+      "name": "Croconaw",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "160",
+      "name": "Feraligatr",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "161",
+      "name": "Sentret",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "162",
+      "name": "Furret",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "163",
+      "name": "Hoothoot",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "164",
+      "name": "Noctowl",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "165",
+      "name": "Ledyba",
+      "type/0": "Bug",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "166",
+      "name": "Ledian",
+      "type/0": "Bug",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "167",
+      "name": "Spinarak",
+      "type/0": "Bug",
+      "type/1": "Poison",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "168",
+      "name": "Ariados",
+      "type/0": "Bug",
+      "type/1": "Poison",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "169",
+      "name": "Crobat",
+      "type/0": "Poison",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "170",
+      "name": "Chinchou",
+      "type/0": "Water",
+      "type/1": "Electric",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "171",
+      "name": "Lanturn",
+      "type/0": "Water",
+      "type/1": "Electric",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "172",
+      "name": "Pichu",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "173",
+      "name": "Cleffa",
+      "type/0": "Fairy",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "174",
+      "name": "Igglybuff",
+      "type/0": "Normal",
+      "type/1": "Fairy",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "175",
+      "name": "Togepi",
+      "type/0": "Fairy",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "176",
+      "name": "Togetic",
+      "type/0": "Fairy",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "177",
+      "name": "Natu",
+      "type/0": "Psychic",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "178",
+      "name": "Xatu",
+      "type/0": "Psychic",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "179",
+      "name": "Mareep",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "180",
+      "name": "Flaaffy",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "181",
+      "name": "Ampharos",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "182",
+      "name": "Bellossom",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "183",
+      "name": "Marill",
+      "type/0": "Water",
+      "type/1": "Fairy",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "184",
+      "name": "Azumarill",
+      "type/0": "Water",
+      "type/1": "Fairy",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "185",
+      "name": "Sudowoodo",
+      "type/0": "Rock",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "186",
+      "name": "Politoed",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "187",
+      "name": "Hoppip",
+      "type/0": "Grass",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "188",
+      "name": "Skiploom",
+      "type/0": "Grass",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "189",
+      "name": "Jumpluff",
+      "type/0": "Grass",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "190",
+      "name": "Aipom",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "191",
+      "name": "Sunkern",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "192",
+      "name": "Sunflora",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "193",
+      "name": "Yanma",
+      "type/0": "Bug",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "194",
+      "name": "Wooper",
+      "type/0": "Water",
+      "type/1": "Ground",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "195",
+      "name": "Quagsire",
+      "type/0": "Water",
+      "type/1": "Ground",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "196",
+      "name": "Espeon",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "197",
+      "name": "Umbreon",
+      "type/0": "Dark",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "198",
+      "name": "Murkrow",
+      "type/0": "Dark",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "199",
+      "name": "Slowking",
+      "type/0": "Water",
+      "type/1": "Psychic",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "200",
+      "name": "Misdreavus",
+      "type/0": "Ghost",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "201",
+      "name": "Unown",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "202",
+      "name": "Wobbuffet",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "203",
+      "name": "Girafarig",
+      "type/0": "Normal",
+      "type/1": "Psychic",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "204",
+      "name": "Pineco",
+      "type/0": "Bug",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "205",
+      "name": "Forretress",
+      "type/0": "Bug",
+      "type/1": "Steel",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "206",
+      "name": "Dunsparce",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "207",
+      "name": "Gligar",
+      "type/0": "Ground",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "208",
+      "name": "Steelix",
+      "type/0": "Steel",
+      "type/1": "Ground",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "209",
+      "name": "Snubbull",
+      "type/0": "Fairy",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "210",
+      "name": "Granbull",
+      "type/0": "Fairy",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "211",
+      "name": "Qwilfish",
+      "type/0": "Water",
+      "type/1": "Poison",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "212",
+      "name": "Scizor",
+      "type/0": "Bug",
+      "type/1": "Steel",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "213",
+      "name": "Shuckle",
+      "type/0": "Bug",
+      "type/1": "Rock",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "214",
+      "name": "Heracross",
+      "type/0": "Bug",
+      "type/1": "Fighting",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "215",
+      "name": "Sneasel",
+      "type/0": "Dark",
+      "type/1": "Ice",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "216",
+      "name": "Teddiursa",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "217",
+      "name": "Ursaring",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "218",
+      "name": "Slugma",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "219",
+      "name": "Magcargo",
+      "type/0": "Fire",
+      "type/1": "Rock",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "220",
+      "name": "Swinub",
+      "type/0": "Ice",
+      "type/1": "Ground",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "221",
+      "name": "Piloswine",
+      "type/0": "Ice",
+      "type/1": "Ground",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "222",
+      "name": "Corsola",
+      "type/0": "Water",
+      "type/1": "Rock",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "223",
+      "name": "Remoraid",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "224",
+      "name": "Octillery",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "225",
+      "name": "Delibird",
+      "type/0": "Ice",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "226",
+      "name": "Mantine",
+      "type/0": "Water",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "227",
+      "name": "Skarmory",
+      "type/0": "Steel",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "228",
+      "name": "Houndour",
+      "type/0": "Dark",
+      "type/1": "Fire",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "229",
+      "name": "Houndoom",
+      "type/0": "Dark",
+      "type/1": "Fire",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "230",
+      "name": "Kingdra",
+      "type/0": "Water",
+      "type/1": "Dragon",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "231",
+      "name": "Phanpy",
+      "type/0": "Ground",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "232",
+      "name": "Donphan",
+      "type/0": "Ground",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "233",
+      "name": "Porygon2",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "234",
+      "name": "Stantler",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "235",
+      "name": "Smeargle",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "236",
+      "name": "Tyrogue",
+      "type/0": "Fighting",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "237",
+      "name": "Hitmontop",
+      "type/0": "Fighting",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "238",
+      "name": "Smoochum",
+      "type/0": "Ice",
+      "type/1": "Psychic",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "239",
+      "name": "Elekid",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "240",
+      "name": "Magby",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "241",
+      "name": "Miltank",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "242",
+      "name": "Blissey",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "1"
+    },
+    {
+      "id": "243",
+      "name": "Raikou",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "244",
+      "name": "Entei",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "245",
+      "name": "Suicune",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "246",
+      "name": "Larvitar",
+      "type/0": "Rock",
+      "type/1": "Ground",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "247",
+      "name": "Pupitar",
+      "type/0": "Rock",
+      "type/1": "Ground",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "248",
+      "name": "Tyranitar",
+      "type/0": "Rock",
+      "type/1": "Dark",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "249",
+      "name": "Lugia",
+      "type/0": "Psychic",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "250",
+      "name": "Ho-Oh",
+      "type/0": "Fire",
+      "type/1": "Flying",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "251",
+      "name": "Celebi",
+      "type/0": "Psychic",
+      "type/1": "Grass",
+      "gen": "2",
+      "appearances": "2"
+    },
+    {
+      "id": "252",
+      "name": "Treecko",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "253",
+      "name": "Grovyle",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "254",
+      "name": "Sceptile",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "255",
+      "name": "Torchic",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "256",
+      "name": "Combusken",
+      "type/0": "Fire",
+      "type/1": "Fighting",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "257",
+      "name": "Blaziken",
+      "type/0": "Fire",
+      "type/1": "Fighting",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "258",
+      "name": "Mudkip",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "259",
+      "name": "Marshtomp",
+      "type/0": "Water",
+      "type/1": "Ground",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "260",
+      "name": "Swampert",
+      "type/0": "Water",
+      "type/1": "Ground",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "261",
+      "name": "Poochyena",
+      "type/0": "Dark",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "262",
+      "name": "Mightyena",
+      "type/0": "Dark",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "263",
+      "name": "Zigzagoon",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "264",
+      "name": "Linoone",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "265",
+      "name": "Wurmple",
+      "type/0": "Bug",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "266",
+      "name": "Silcoon",
+      "type/0": "Bug",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "267",
+      "name": "Beautifly",
+      "type/0": "Bug",
+      "type/1": "Flying",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "268",
+      "name": "Cascoon",
+      "type/0": "Bug",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "269",
+      "name": "Dustox",
+      "type/0": "Bug",
+      "type/1": "Poison",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "270",
+      "name": "Lotad",
+      "type/0": "Water",
+      "type/1": "Grass",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "271",
+      "name": "Lombre",
+      "type/0": "Water",
+      "type/1": "Grass",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "272",
+      "name": "Ludicolo",
+      "type/0": "Water",
+      "type/1": "Grass",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "273",
+      "name": "Seedot",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "274",
+      "name": "Nuzleaf",
+      "type/0": "Grass",
+      "type/1": "Dark",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "275",
+      "name": "Shiftry",
+      "type/0": "Grass",
+      "type/1": "Dark",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "276",
+      "name": "Taillow",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "277",
+      "name": "Swellow",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "278",
+      "name": "Wingull",
+      "type/0": "Water",
+      "type/1": "Flying",
+      "gen": "3",
+      "appearances": "2"
+    },
+    {
+      "id": "279",
+      "name": "Pelipper",
+      "type/0": "Water",
+      "type/1": "Flying",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "280",
+      "name": "Ralts",
+      "type/0": "Psychic",
+      "type/1": "Fairy",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "281",
+      "name": "Kirlia",
+      "type/0": "Psychic",
+      "type/1": "Fairy",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "282",
+      "name": "Gardevoir",
+      "type/0": "Psychic",
+      "type/1": "Fairy",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "283",
+      "name": "Surskit",
+      "type/0": "Bug",
+      "type/1": "Water",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "284",
+      "name": "Masquerain",
+      "type/0": "Bug",
+      "type/1": "Flying",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "285",
+      "name": "Shroomish",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "286",
+      "name": "Breloom",
+      "type/0": "Grass",
+      "type/1": "Fighting",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "287",
+      "name": "Slakoth",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "288",
+      "name": "Vigoroth",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "289",
+      "name": "Slaking",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "290",
+      "name": "Nincada",
+      "type/0": "Bug",
+      "type/1": "Ground",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "291",
+      "name": "Ninjask",
+      "type/0": "Bug",
+      "type/1": "Flying",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "292",
+      "name": "Shedinja",
+      "type/0": "Bug",
+      "type/1": "Ghost",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "293",
+      "name": "Whismur",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "294",
+      "name": "Loudred",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "295",
+      "name": "Exploud",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "296",
+      "name": "Makuhita",
+      "type/0": "Fighting",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "297",
+      "name": "Hariyama",
+      "type/0": "Fighting",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "298",
+      "name": "Azurill",
+      "type/0": "Normal",
+      "type/1": "Fairy",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "299",
+      "name": "Nosepass",
+      "type/0": "Rock",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "300",
+      "name": "Skitty",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "301",
+      "name": "Delcatty",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "302",
+      "name": "Sableye",
+      "type/0": "Dark",
+      "type/1": "Ghost",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "303",
+      "name": "Mawile",
+      "type/0": "Steel",
+      "type/1": "Fairy",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "304",
+      "name": "Aron",
+      "type/0": "Steel",
+      "type/1": "Rock",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "305",
+      "name": "Lairon",
+      "type/0": "Steel",
+      "type/1": "Rock",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "306",
+      "name": "Aggron",
+      "type/0": "Steel",
+      "type/1": "Rock",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "307",
+      "name": "Meditite",
+      "type/0": "Fighting",
+      "type/1": "Psychic",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "308",
+      "name": "Medicham",
+      "type/0": "Fighting",
+      "type/1": "Psychic",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "309",
+      "name": "Electrike",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "310",
+      "name": "Manectric",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "311",
+      "name": "Plusle",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "312",
+      "name": "Minun",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "313",
+      "name": "Volbeat",
+      "type/0": "Bug",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "314",
+      "name": "Illumise",
+      "type/0": "Bug",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "315",
+      "name": "Roselia",
+      "type/0": "Grass",
+      "type/1": "Poison",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "316",
+      "name": "Gulpin",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "317",
+      "name": "Swalot",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "318",
+      "name": "Carvanha",
+      "type/0": "Water",
+      "type/1": "Dark",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "319",
+      "name": "Sharpedo",
+      "type/0": "Water",
+      "type/1": "Dark",
+      "gen": "3",
+      "appearances": "2"
+    },
+    {
+      "id": "320",
+      "name": "Wailmer",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "321",
+      "name": "Wailord",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "322",
+      "name": "Numel",
+      "type/0": "Fire",
+      "type/1": "Ground",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "323",
+      "name": "Camerupt",
+      "type/0": "Fire",
+      "type/1": "Ground",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "324",
+      "name": "Torkoal",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "325",
+      "name": "Spoink",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "326",
+      "name": "Grumpig",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "327",
+      "name": "Spinda",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "328",
+      "name": "Trapinch",
+      "type/0": "Ground",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "329",
+      "name": "Vibrava",
+      "type/0": "Ground",
+      "type/1": "Dragon",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "330",
+      "name": "Flygon",
+      "type/0": "Ground",
+      "type/1": "Dragon",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "331",
+      "name": "Cacnea",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "332",
+      "name": "Cacturne",
+      "type/0": "Grass",
+      "type/1": "Dark",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "333",
+      "name": "Swablu",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "334",
+      "name": "Altaria",
+      "type/0": "Dragon",
+      "type/1": "Flying",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "335",
+      "name": "Zangoose",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "336",
+      "name": "Seviper",
+      "type/0": "Poison",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "337",
+      "name": "Lunatone",
+      "type/0": "Rock",
+      "type/1": "Psychic",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "338",
+      "name": "Solrock",
+      "type/0": "Rock",
+      "type/1": "Psychic",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "339",
+      "name": "Barboach",
+      "type/0": "Water",
+      "type/1": "Ground",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "340",
+      "name": "Whiscash",
+      "type/0": "Water",
+      "type/1": "Ground",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "341",
+      "name": "Corphish",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "342",
+      "name": "Crawdaunt",
+      "type/0": "Water",
+      "type/1": "Dark",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "343",
+      "name": "Baltoy",
+      "type/0": "Ground",
+      "type/1": "Psychic",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "344",
+      "name": "Claydol",
+      "type/0": "Ground",
+      "type/1": "Psychic",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "345",
+      "name": "Lileep",
+      "type/0": "Rock",
+      "type/1": "Grass",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "346",
+      "name": "Cradily",
+      "type/0": "Rock",
+      "type/1": "Grass",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "347",
+      "name": "Anorith",
+      "type/0": "Rock",
+      "type/1": "Bug",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "348",
+      "name": "Armaldo",
+      "type/0": "Rock",
+      "type/1": "Bug",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "349",
+      "name": "Feebas",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "350",
+      "name": "Milotic",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "351",
+      "name": "Castform",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "352",
+      "name": "Kecleon",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "353",
+      "name": "Shuppet",
+      "type/0": "Ghost",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "354",
+      "name": "Banette",
+      "type/0": "Ghost",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "355",
+      "name": "Duskull",
+      "type/0": "Ghost",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "356",
+      "name": "Dusclops",
+      "type/0": "Ghost",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "357",
+      "name": "Tropius",
+      "type/0": "Grass",
+      "type/1": "Flying",
+      "gen": "3",
+      "appearances": "2"
+    },
+    {
+      "id": "358",
+      "name": "Chimecho",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "359",
+      "name": "Absol",
+      "type/0": "Dark",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "360",
+      "name": "Wynaut",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "361",
+      "name": "Snorunt",
+      "type/0": "Ice",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "362",
+      "name": "Glalie",
+      "type/0": "Ice",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "363",
+      "name": "Spheal",
+      "type/0": "Ice",
+      "type/1": "Water",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "364",
+      "name": "Sealeo",
+      "type/0": "Ice",
+      "type/1": "Water",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "365",
+      "name": "Walrein",
+      "type/0": "Ice",
+      "type/1": "Water",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "366",
+      "name": "Clamperl",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "367",
+      "name": "Huntail",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "368",
+      "name": "Gorebyss",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "369",
+      "name": "Relicanth",
+      "type/0": "Water",
+      "type/1": "Rock",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "370",
+      "name": "Luvdisc",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "371",
+      "name": "Bagon",
+      "type/0": "Dragon",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "372",
+      "name": "Shelgon",
+      "type/0": "Dragon",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "373",
+      "name": "Salamence",
+      "type/0": "Dragon",
+      "type/1": "Flying",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "374",
+      "name": "Beldum",
+      "type/0": "Steel",
+      "type/1": "Psychic",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "375",
+      "name": "Metang",
+      "type/0": "Steel",
+      "type/1": "Psychic",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "376",
+      "name": "Metagross",
+      "type/0": "Steel",
+      "type/1": "Psychic",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "377",
+      "name": "Regirock",
+      "type/0": "Rock",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "378",
+      "name": "Regice",
+      "type/0": "Ice",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "379",
+      "name": "Registeel",
+      "type/0": "Steel",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "380",
+      "name": "Latias",
+      "type/0": "Dragon",
+      "type/1": "Psychic",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "381",
+      "name": "Latios",
+      "type/0": "Dragon",
+      "type/1": "Psychic",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "382",
+      "name": "Kyogre",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "383",
+      "name": "Groudon",
+      "type/0": "Ground",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "384",
+      "name": "Rayquaza",
+      "type/0": "Dragon",
+      "type/1": "Flying",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "385",
+      "name": "Jirachi",
+      "type/0": "Steel",
+      "type/1": "Psychic",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "386",
+      "name": "Deoxys",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "3",
+      "appearances": "1"
+    },
+    {
+      "id": "387",
+      "name": "Turtwig",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "388",
+      "name": "Grotle",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "389",
+      "name": "Torterra",
+      "type/0": "Grass",
+      "type/1": "Ground",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "390",
+      "name": "Chimchar",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "391",
+      "name": "Monferno",
+      "type/0": "Fire",
+      "type/1": "Fighting",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "392",
+      "name": "Infernape",
+      "type/0": "Fire",
+      "type/1": "Fighting",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "393",
+      "name": "Piplup",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "394",
+      "name": "Prinplup",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "395",
+      "name": "Empoleon",
+      "type/0": "Water",
+      "type/1": "Steel",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "396",
+      "name": "Starly",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "397",
+      "name": "Staravia",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "398",
+      "name": "Staraptor",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "399",
+      "name": "Bidoof",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "400",
+      "name": "Bibarel",
+      "type/0": "Normal",
+      "type/1": "Water",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "401",
+      "name": "Kricketot",
+      "type/0": "Bug",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "402",
+      "name": "Kricketune",
+      "type/0": "Bug",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "403",
+      "name": "Shinx",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "404",
+      "name": "Luxio",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "405",
+      "name": "Luxray",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "406",
+      "name": "Budew",
+      "type/0": "Grass",
+      "type/1": "Poison",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "407",
+      "name": "Roserade",
+      "type/0": "Grass",
+      "type/1": "Poison",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "408",
+      "name": "Cranidos",
+      "type/0": "Rock",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "409",
+      "name": "Rampardos",
+      "type/0": "Rock",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "410",
+      "name": "Shieldon",
+      "type/0": "Rock",
+      "type/1": "Steel",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "411",
+      "name": "Bastiodon",
+      "type/0": "Rock",
+      "type/1": "Steel",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "412",
+      "name": "Burmy",
+      "type/0": "Bug",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "413",
+      "name": "Wormadam",
+      "type/0": "Bug",
+      "type/1": "Grass",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "414",
+      "name": "Mothim",
+      "type/0": "Bug",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "415",
+      "name": "Combee",
+      "type/0": "Bug",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "416",
+      "name": "Vespiquen",
+      "type/0": "Bug",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "417",
+      "name": "Pachirisu",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "418",
+      "name": "Buizel",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "419",
+      "name": "Floatzel",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "420",
+      "name": "Cherubi",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "421",
+      "name": "Cherrim",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "422",
+      "name": "Shellos",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "423",
+      "name": "Gastrodon",
+      "type/0": "Water",
+      "type/1": "Ground",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "424",
+      "name": "Ambipom",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "425",
+      "name": "Drifloon",
+      "type/0": "Ghost",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "426",
+      "name": "Drifblim",
+      "type/0": "Ghost",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "427",
+      "name": "Buneary",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "428",
+      "name": "Lopunny",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "429",
+      "name": "Mismagius",
+      "type/0": "Ghost",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "430",
+      "name": "Honchkrow",
+      "type/0": "Dark",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "431",
+      "name": "Glameow",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "432",
+      "name": "Purugly",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "433",
+      "name": "Chingling",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "434",
+      "name": "Stunky",
+      "type/0": "Poison",
+      "type/1": "Dark",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "435",
+      "name": "Skuntank",
+      "type/0": "Poison",
+      "type/1": "Dark",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "436",
+      "name": "Bronzor",
+      "type/0": "Steel",
+      "type/1": "Psychic",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "437",
+      "name": "Bronzong",
+      "type/0": "Steel",
+      "type/1": "Psychic",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "438",
+      "name": "Bonsly",
+      "type/0": "Rock",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "439",
+      "name": "Mime Jr.",
+      "type/0": "Psychic",
+      "type/1": "Fairy",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "440",
+      "name": "Happiny",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "441",
+      "name": "Chatot",
+      "type/0": "Normal",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "442",
+      "name": "Spiritomb",
+      "type/0": "Ghost",
+      "type/1": "Dark",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "443",
+      "name": "Gible",
+      "type/0": "Dragon",
+      "type/1": "Ground",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "444",
+      "name": "Gabite",
+      "type/0": "Dragon",
+      "type/1": "Ground",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "445",
+      "name": "Garchomp",
+      "type/0": "Dragon",
+      "type/1": "Ground",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "446",
+      "name": "Munchlax",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "447",
+      "name": "Riolu",
+      "type/0": "Fighting",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "448",
+      "name": "Lucario",
+      "type/0": "Fighting",
+      "type/1": "Steel",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "449",
+      "name": "Hippopotas",
+      "type/0": "Ground",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "450",
+      "name": "Hippowdon",
+      "type/0": "Ground",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "451",
+      "name": "Skorupi",
+      "type/0": "Poison",
+      "type/1": "Bug",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "452",
+      "name": "Drapion",
+      "type/0": "Poison",
+      "type/1": "Dark",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "453",
+      "name": "Croagunk",
+      "type/0": "Poison",
+      "type/1": "Fighting",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "454",
+      "name": "Toxicroak",
+      "type/0": "Poison",
+      "type/1": "Fighting",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "455",
+      "name": "Carnivine",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "456",
+      "name": "Finneon",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "457",
+      "name": "Lumineon",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "458",
+      "name": "Mantyke",
+      "type/0": "Water",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "459",
+      "name": "Snover",
+      "type/0": "Grass",
+      "type/1": "Ice",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "460",
+      "name": "Abomasnow",
+      "type/0": "Grass",
+      "type/1": "Ice",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "461",
+      "name": "Weavile",
+      "type/0": "Dark",
+      "type/1": "Ice",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "462",
+      "name": "Magnezone",
+      "type/0": "Electric",
+      "type/1": "Steel",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "463",
+      "name": "Lickilicky",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "464",
+      "name": "Rhyperior",
+      "type/0": "Ground",
+      "type/1": "Rock",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "465",
+      "name": "Tangrowth",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "466",
+      "name": "Electivire",
+      "type/0": "Electric",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "467",
+      "name": "Magmortar",
+      "type/0": "Fire",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "468",
+      "name": "Togekiss",
+      "type/0": "Fairy",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "469",
+      "name": "Yanmega",
+      "type/0": "Bug",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "470",
+      "name": "Leafeon",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "471",
+      "name": "Glaceon",
+      "type/0": "Ice",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "472",
+      "name": "Gliscor",
+      "type/0": "Ground",
+      "type/1": "Flying",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "473",
+      "name": "Mamoswine",
+      "type/0": "Ice",
+      "type/1": "Ground",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "474",
+      "name": "Porygon-Z",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "475",
+      "name": "Gallade",
+      "type/0": "Psychic",
+      "type/1": "Fighting",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "476",
+      "name": "Probopass",
+      "type/0": "Rock",
+      "type/1": "Steel",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "477",
+      "name": "Dusknoir",
+      "type/0": "Ghost",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "478",
+      "name": "Froslass",
+      "type/0": "Ice",
+      "type/1": "Ghost",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "479",
+      "name": "Rotom",
+      "type/0": "Electric",
+      "type/1": "Ghost",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "480",
+      "name": "Uxie",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "481",
+      "name": "Mesprit",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "482",
+      "name": "Azelf",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "483",
+      "name": "Dialga",
+      "type/0": "Steel",
+      "type/1": "Dragon",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "484",
+      "name": "Palkia",
+      "type/0": "Water",
+      "type/1": "Dragon",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "485",
+      "name": "Heatran",
+      "type/0": "Fire",
+      "type/1": "Steel",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "486",
+      "name": "Regigigas",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "487",
+      "name": "Giratina",
+      "type/0": "Ghost",
+      "type/1": "Dragon",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "488",
+      "name": "Cresselia",
+      "type/0": "Psychic",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "489",
+      "name": "Phione",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "490",
+      "name": "Manaphy",
+      "type/0": "Water",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "491",
+      "name": "Darkrai",
+      "type/0": "Dark",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "492",
+      "name": "Shaymin",
+      "type/0": "Grass",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "493",
+      "name": "Arceus",
+      "type/0": "Normal",
+      "type/1": "",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "494",
+      "name": "Victini",
+      "type/0": "Psychic",
+      "type/1": "Fire",
+      "gen": "4",
+      "appearances": "1"
+    },
+    {
+      "id": "810",
+      "name": "Grookey",
+      "type/0": "Grass",
+      "gen": "8",
+      "appearances": "2"
+    },
+    {
+      "id": "813",
+      "name": "Scorbunny",
+      "type/0": "Fire",
+      "gen": "8",
+      "appearances": "2"
+    },
+    {
+      "id": "816",
+      "name": "Sobble",
+      "type/0": "Water",
+      "gen": "8",
+      "appearances": "2"
+    },
+    {
+      "id": "819",
+      "name": "Skwovet",
+      "type/0": "Normal",
+      "gen": "8",
+      "appearances": "1"
+    },
+    {
+      "id": "845",
+      "name": "Cramorant",
+      "type/0": "Flying",
+      "type/1": "Water",
+      "gen": "8",
+      "appearances": "1"
+    },
+    {
+      "id": "893",
+      "name": "Zarude",
+      "type/0": "Dark",
+      "type/1": "Grass",
+      "gen": "8",
+      "appearances": "1"
+    },
+    {
+      "appearances": "594"
+    }
+  ]
+}
