@@ -69,10 +69,14 @@ function drawCircles() {
             const lum = 0.299 * rgb.r + 0.587 * rgb.g + 0.114 * rgb.b;
             if (lum < 140) fill(255); else fill(0);
 
-            const txt = p.name || '';
+            const name = p.name || '';
+            const gen = p.gen || '';
+            const appearance = p.appearances || '';
             const ts = Math.max(10, diameter * 0.22);
             textSize(ts);
-            text(txt, x, y);
+            text(name, x, y-ts);
+            text(`Gen ${gen}`, x, y);
+            text(appearance, x, y + ts);
         }
     } catch (err) {
         console.error('Error in drawCircles:', err);
